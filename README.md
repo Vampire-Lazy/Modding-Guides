@@ -4,16 +4,6 @@ Modding Guides for Different Games. Here we will post guides for most the popula
 
 ## Game Lists:
 
-### [Grand Theft Auto:](https://github.com/Vampire-Lazy/modding-guides/blob/main/games/gta/lc_3.md)
-
-#### III:
-
-#### VC:
-
-#### SA:
-
-#### IV:
-
-#### V:
+### [Grand Theft Auto:](https://github.com/Vampire-Lazy/modding-guides/blob/main/games/gta/gta.md)
 
 ### Age Of Empires:
