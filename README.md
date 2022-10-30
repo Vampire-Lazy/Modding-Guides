@@ -1,17 +1,19 @@
 # Modding Guides
- Just a place to find most of the modding guides for many games.
+
+Modding Guides for Different Games. Here we will post guides for most the popular games. Some will be Guides as Links to other sites or just here if the links are dead. If any link is found dead, feel free to report in [issues](https://github.com/Vampire-Lazy/modding-guides/issues).
+
 ## Game Lists:
-### GTA:
-###### GTA III:
 
-###### GTA VC:
+### [Grand Theft Auto:](https://github.com/Vampire-Lazy/modding-guides/blob/main/games/gta/lc_3.md)
 
-###### GTA SA:
+#### III:
 
-###### GTA IV:
+#### VC:
 
-###### GTA V:
+#### SA:
 
+#### IV:
 
+#### V:
 
- ## More Games Coming Soon...
+### Age Of Empires:
