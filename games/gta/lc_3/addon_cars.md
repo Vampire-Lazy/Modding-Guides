@@ -152,4 +152,4 @@ The vehicle colours are now installed. You can test the car in-game again. If it
 -   You can use the files from your original install to fix the install you have modded. Then try installing the car again.
 -   The car might be broken. This is very rare, though. Use the files from your original install to fix the install you have modded. Then try a different car.
 
-Credits: 
+Credits: [Project Cerbera](https://projectcerbera.com/gta/3-vc/tutorials/installing-cars)
