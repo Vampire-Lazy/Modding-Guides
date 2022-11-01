@@ -19,16 +19,16 @@ Considered by many reviewers to be one of the [greatest video games ever made](h
 | Series                                                                   | [*Grand Theft Auto*](https://en.wikipedia.org/wiki/Grand_Theft_Auto)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | [**Engine**](https://en.wikipedia.org/wiki/Game_engine)                  | [Render Ware](https://en.wikipedia.org/wiki/RenderWare)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | [**Platform(s)**](https://en.wikipedia.org/wiki/Computing_platform)      | [PlayStation 2](https://en.wikipedia.org/wiki/PlayStation_2) 
-[Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) 
-[Xbox](https://en.wikipedia.org/wiki/Xbox_(console)) 
-[Mac OS X](https://en.wikipedia.org/wiki/Mac_OS_X) 
-[iOS](https://en.wikipedia.org/wiki/IOS) 
-[Android](https://en.wikipedia.org/wiki/Android_(operating_system)) 
-[Windows Phone](https://en.wikipedia.org/wiki/Windows_Phone) 
-[Fire OS](https://en.wikipedia.org/wiki/Fire_OS) 
-[Xbox 360](https://en.wikipedia.org/wiki/Xbox_360) 
-[PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) 
-[Oculus Quest 2](https://en.wikipedia.org/wiki/Oculus_Quest_2) |
+                                                                           | [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) 
+                                                                           | [Xbox](https://en.wikipedia.org/wiki/Xbox_(console)) 
+                                                                           | [Mac OS X](https://en.wikipedia.org/wiki/Mac_OS_X) 
+                                                                           | [iOS](https://en.wikipedia.org/wiki/IOS) 
+                                                                           | [Android](https://en.wikipedia.org/wiki/Android_(operating_system)) 
+                                                                           | [Windows Phone](https://en.wikipedia.org/wiki/Windows_Phone) 
+                                                                           | [Fire OS](https://en.wikipedia.org/wiki/Fire_OS) 
+                                                                           | [Xbox 360](https://en.wikipedia.org/wiki/Xbox_360) 
+                                                                           | [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) 
+                                                                           | [Oculus Quest 2](https://en.wikipedia.org/wiki/Oculus_Quest_2) |
 
 
 
