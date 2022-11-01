@@ -32,11 +32,6 @@ Considered by many reviewers to be one of the [greatest video games ever made](h
                                                                            
 
 
-
-| Release                                                                   | 26 October 2004                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [**Genre(s)**](https://en.wikipedia.org/wiki/Video_game_genre)            | [Action-adventure](https://en.wikipedia.org/wiki/Action-adventure)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Mode(s)                                                                   | [Single-player](https://en.wikipedia.org/wiki/Single-player), [multiplayer](https://en.wikipedia.org/wiki/Multiplayer)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-
 ## Gameplay
 
 ![](media/efae6e3f15b0028d8827c016c26b8269.jpeg)
