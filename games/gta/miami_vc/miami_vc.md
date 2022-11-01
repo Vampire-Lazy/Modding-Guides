@@ -1,5 +1,5 @@
 # Grand Theft Auto: Vice City
-![](https://static.wikia.nocookie.net/gtawiki/images/3/36/GTA_Vice_City_Box_Art.jpg)
+![](https://static.wikia.nocookie.net/gtawiki/images/3/36/GTA_Vice_City_Box_Art.jpg/revision/latest/scale-to-width-down/350?cb=20080816125146)
 
 **“***The depth of this game is unparalleled; there are hordes of side quests and missions and cool little easter eggs. You need to follow the main story in order to open up the whole city and gain access to property acquisition, but you can still spend hours just wandering around getting into trouble.***”** — Ben Silverman, *Game Revolution*.
 
