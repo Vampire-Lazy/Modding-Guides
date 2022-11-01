@@ -1,5 +1,6 @@
 # Grand Theft Auto III/3
 ![](https://static.wikia.nocookie.net/gtawiki/images/f/f6/GTA3_Box_Art.jpg/revision/latest/scale-to-width-down/350?cb=20200723205441)
+
 **“***One of the most influential and successful games ever made.***”** -The New York Times
 
 **Grand Theft Auto III** (also shortened into **GTA III** or **GTA 3**) is a 2001 action-adventure videogame developed by [Rockstar North](https://gta.fandom.com/wiki/Rockstar_North) (then known as DMA Design) and published by [Rockstar Games](https://gta.fandom.com/wiki/Rockstar_Games). It was originally released for the [PlayStation 2](https://gta.fandom.com/wiki/PlayStation_2) console, but also saw ports for the [PC](https://gta.fandom.com/wiki/PC) and [Xbox](https://gta.fandom.com/wiki/Xbox_(console)).
