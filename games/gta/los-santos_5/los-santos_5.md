@@ -1,6 +1,6 @@
 # Grand Theft Auto V/5 
 
-[https://static.wikia.nocookie.net/gtawiki/images/7/76/CoverArt-GTAV.png]
+![](https://static.wikia.nocookie.net/gtawiki/images/7/76/CoverArt-GTAV.png)
 
 “When a young street hustler, a retired bank robber and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. government and the entertainment industry, they must pull off a series of dangerous heists to survive in a ruthless city in which they can trust nobody, least of all each other.”
 — Official Description
