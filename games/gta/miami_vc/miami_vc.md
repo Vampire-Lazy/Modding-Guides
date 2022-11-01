@@ -3,7 +3,7 @@
 
 **“***The depth of this game is unparalleled; there are hordes of side quests and missions and cool little easter eggs. You need to follow the main story in order to open up the whole city and gain access to property acquisition, but you can still spend hours just wandering around getting into trouble.***”** — Ben Silverman, *Game Revolution*.
 
-**Grand Theft Auto: Vice City** (also referred to as **GTA Vice City***,* **Vice City** *and abbreviated* **GTAVC**) is a video game developed by [Rockstar North](https://gta.fandom.com/wiki/Rockstar_North). It is the fifth installment in the [*Grand Theft Auto*](https://gta.fandom.com/wiki/Grand_Theft_Auto) series and the second game in the [3D Universe](https://gta.fandom.com/wiki/3D_Universe) timeline of the series.
+**Grand Theft Auto: Vice City** (also referred to as **GTA Vice City**, **Vice City** *and abbreviated* **GTAVC**) is a video game developed by [Rockstar North](https://gta.fandom.com/wiki/Rockstar_North). It is the fifth installment in the [*Grand Theft Auto*](https://gta.fandom.com/wiki/Grand_Theft_Auto) series and the second game in the [3D Universe](https://gta.fandom.com/wiki/3D_Universe) timeline of the series.
 
 The game is set in [Vice City](https://gta.fandom.com/wiki/Vice_City_(3D_Universe)), [Florida](https://gta.fandom.com/wiki/State_of_Florida), in [1986](https://gta.fandom.com/wiki/1986), and concerns the exploits of protagonist [Tommy Vercetti](https://gta.fandom.com/wiki/Tommy_Vercetti) as he rises to become Vice City's major criminal power. The game's events follow on from [*Grand Theft Auto: Vice City Stories*](https://gta.fandom.com/wiki/Grand_Theft_Auto:_Vice_City_Stories).
 
