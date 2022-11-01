@@ -11,7 +11,8 @@ Two main instalments were published for the [PlayStation 3](https://en.wikipedia
 On 4 February 2022, Rockstar confirmed that development of [a new entry in the series](https://en.wikipedia.org/wiki/Untitled_Grand_Theft_Auto_game) was "well underway". In-development footage of the game leaked in September 2022; Rockstar noted that it was "extremely disappointed" by the manner in which the game was first demonstrated, but that it did not anticipate long-term effects on development.
 
 ## List of Games
-- [Grand Theft Auto: Vice City](https://github.com/Vampire-Lazy/modding-guides/blob/main/games/gta/liberty_3/liberty_3.md)
+- [Grand Theft Auto 3/III](https://github.com/Vampire-Lazy/modding-guides/blob/main/games/gta/liberty_3/liberty_3.md)
+- [Grand Theft Auto: Vice City](https://github.com/Vampire-Lazy/modding-guides/blob/main/games/gta/miami_vc/miami_vc.md)
 - [Grand Theft Auto: San Andreas](https://github.com/Vampire-Lazy/modding-guides/blob/main/games/gta/san_sa/san_sa.md)
 - [Grand Theft Auto 4/IV](https://github.com/Vampire-Lazy/modding-guides/blob/main/games/gta/liberty_4/liberty_4.md)
-- [Grand Theft Auto 5/V](https://github.com/Vampire-Lazy/modding-guides/blob/main/games/gta/ls_v/ls_5.md)
+- [Grand Theft Auto 5/V](https://github.com/Vampire-Lazy/modding-guides/blob/main/games/gta/los-santos_5/lossantos_5.md)
