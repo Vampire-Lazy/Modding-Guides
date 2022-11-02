@@ -15,7 +15,7 @@ On November 11, [2021](https://gta.fandom.com/wiki/2021), the game was re-releas
 - [Vehicles](https://github.com/Vampire-Lazy/modding-guides/blob/main/games/gta/san_sa/cars/cars.md)
 - Players
 - Non-Playable Characters (NPC)/ Pedestrains
-- Weapons
+- [Weapons](https://github.com/Vampire-Lazy/modding-guides/blob/main/games/gta/san_sa/guns/guns.md)
 - Graphics
 - Fixes
 - Must Have
