@@ -30,10 +30,10 @@ All main series titles are PC-exclusive and were originally developed by Ensembl
 -   [**Age of Empires IV**](https://ageofempires.fandom.com/wiki/Age_of_Empires_IV) (2021)
 
 ## Guides and mods can be found in the following places:
-- [AoE](https://aoe.heavengames.com/)  [DE](https://aoe.heavengames.com/)  [Mpds - Heaven](http://aoe.heavengames.com/dl-php/index.php)  [Mods - XboxStudios](https://www.ageofempires.com/mods/?q=&game=1&modid=0&filter=0&status=&sort=popular&order=DESC?_=1667473753)
-- [AoE2](https://aok.heavengames.com/university/)  [HD](https://aok.heavengames.com/university/)  [DE](https://aok.heavengames.com/university/)  [Mods - Heaven](https://aok.heavengames.com/blacksmith/index.php)  [Mods - XboxStudios](https://www.ageofempires.com/mods/?q=&game=2&modid=0&filter=0&status=&sort=popular&order=DESC)
-- [AoE3](https://aoe3.heavengames.com/modding/tutorials/)  [DE](https://aoe3.heavengames.com/modding/tutorials/)  [Mods - Heaven](https://aoe3.heavengames.com/downloads/index.php)  [Mods - XboxStudios](https://www.ageofempires.com/mods/?q=&game=3&modid=0&filter=0&status=&sort=popular&order=DESC)
-- [AoE4](https://www.ageofempires.com/games/age-of-empires-iv/)  [Mods](https://www.ageofempires.com/mods/?q=&game=4&modid=0&filter=0&status=&sort=popular&order=DESC)
+- [AoE](https://aoe.heavengames.com/), [DE](https://aoe.heavengames.com/), [Mods - Heaven](http://aoe.heavengames.com/dl-php/index.php), [Mods - XboxStudios](https://www.ageofempires.com/mods/?q=&game=1&modid=0&filter=0&status=&sort=popular&order=DESC?_=1667473753)
+- [AoE2](https://aok.heavengames.com/university/), [HD](https://aok.heavengames.com/university/), [DE](https://aok.heavengames.com/university/), [Mods - Heaven](https://aok.heavengames.com/blacksmith/index.php), [Mods - XboxStudios](https://www.ageofempires.com/mods/?q=&game=2&modid=0&filter=0&status=&sort=popular&order=DESC)
+- [AoE3](https://aoe3.heavengames.com/modding/tutorials/), [DE](https://aoe3.heavengames.com/modding/tutorials/), [Mods - Heaven](https://aoe3.heavengames.com/downloads/index.php), [Mods - XboxStudios](https://www.ageofempires.com/mods/?q=&game=3&modid=0&filter=0&status=&sort=popular&order=DESC)
+- [AoE4](https://www.ageofempires.com/games/age-of-empires-iv/), [Mods](https://www.ageofempires.com/mods/?q=&game=4&modid=0&filter=0&status=&sort=popular&order=DESC)
 
 
 [Description Credits](https://ageofempires.fandom.com/wiki/Age_of_Empires_(series))
