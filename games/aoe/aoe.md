@@ -4,10 +4,11 @@
 
 ## Main series
 
+
 All main series titles are PC-exclusive and were originally developed by Ensemble Studios until its closure in 2009. [*Age of Empires IV*](https://ageofempires.fandom.com/wiki/Age_of_Empires_IV) was developed by [Relic Entertainment](https://ageofempires.fandom.com/wiki/Relic_Entertainment).
 
 *Age of Empires II: HD Edition* was developed by Hidden Path Entertainment. All following remasters and expansion packs were developed by [SkyBox Labs](https://ageofempires.fandom.com/wiki/SkyBox_Labs), with the assistance of [Forgotten Empires](https://ageofempires.fandom.com/wiki/Forgotten_Empires). For the *Definitive Edition* remasters, Forgotten Empires have handled development with studios Tantalus Media and Wicked Witch.
-
+![](https://www.ageofempires.com/wp-content/uploads/2021/10/ogthumb.jpg)
 -   [**Age of Empires**](https://ageofempires.fandom.com/wiki/Age_of_Empires) (1997)
     -   [*Age of Empires: The Rise of Rome*](https://ageofempires.fandom.com/wiki/Age_of_Empires:_The_Rise_of_Rome) (1998)
 -   [**Age of Empires II: The Age of Kings**](https://ageofempires.fandom.com/wiki/Age_of_Empires_II:_The_Age_of_Kings) (1999)
